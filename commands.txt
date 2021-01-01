@@ -1,0 +1,9 @@
+echo Hello world
+ls
+pwd
+sleep 10
+cat commands.txt
+sleep 20 && echo done20 && sleep 21 && echo done21 && sleep 22 && echo done22
+sleep 10 &&& sleep 20 &&& sleep 30
+sleep 10 &
+sleep 30 && echo done30 && sleep 31 && echo done31
